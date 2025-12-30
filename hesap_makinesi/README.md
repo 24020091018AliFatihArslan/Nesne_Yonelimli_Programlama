@@ -21,7 +21,7 @@ Karanlık temalı, masaüstü kullanımına uygun basit bir **Hesap Makinesi** u
 
 Aşağıdaki görseli repoya ekleyip bu yolu korursanız README içinde otomatik görünür:
 
-`screenshot.png`
+`assets/screenshot.png`
 
 ![Hesap Makinesi](assets/screenshot.png)
 
