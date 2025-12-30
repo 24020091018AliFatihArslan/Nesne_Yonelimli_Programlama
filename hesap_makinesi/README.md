@@ -15,17 +15,6 @@ Karanlık temalı, masaüstü kullanımına uygun basit bir **Hesap Makinesi** u
 - Üst ekranda **işlem ifadesi / geçmiş**, ana ekranda **sonuç** gösterimi
 - Modern **dark UI** ve büyük butonlar
 
----
-
-## Ekran Görüntüsü
-
-Aşağıdaki görseli repoya ekleyip bu yolu korursanız README içinde otomatik görünür:
-
-`assets/screenshot.png`
-
-![Hesap Makinesi](assets/screenshot.png)
-
----
 
 ## Kurulum / Çalıştırma
 
@@ -52,21 +41,3 @@ Aşağıdaki adımlar, projeyi GitHub üzerinden indirip yerelde çalıştırmak
 - Sıfırlamak için **C**’ye basın
 
 ---
-
-## Proje Yapısı (Öneri)
-
-Repo düzenini aşağıdaki gibi tutmanız önerilir:
-
-```
-.
-├─ assets/
-│  └─ screenshot.png
-├─ src/                # kaynak kodlar (varsa)
-└─ README.md
-```
-
----
-
-## Lisans
-
-Bu proje için lisans belirlemediyseniz, GitHub’da açık kaynak planlıyorsanız **MIT License** eklemeniz önerilir.
